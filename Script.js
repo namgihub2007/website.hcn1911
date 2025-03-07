@@ -4,7 +4,7 @@ let a = username. value
 let b = password.value
 if (a == "abc" && b == "123")
 {
-  window. open ("home.html*)
+  window. open ("index.html*)
   document.getElementById(compiler).style.display="t
                 }
                 else
