@@ -12,7 +12,7 @@ body {
 }
 
 header {
-  background-color: blue;
+  background-color: pink;
   padding: 10px 0;
   text-align: center;
 }
@@ -37,8 +37,8 @@ header {
 }
 
 .menu a:hover, .menu a:focus {
-  background-color: white;
-  color: blue;
+  background-color: pink;
+  color: green;
   border-radius: 5px;
 }
 
@@ -51,7 +51,7 @@ iframe {
 
 footer {
   background-color: #333;
-  color: white;
+  color: red;
   text-align: center;
   padding: 10px;
 }
